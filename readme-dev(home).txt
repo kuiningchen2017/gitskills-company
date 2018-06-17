@@ -1,1 +1,1 @@
-creating a new branch is qucik
+creating a new branch is qucik £¨master£© & simple¡£
