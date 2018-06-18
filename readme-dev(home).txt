@@ -1,3 +1,3 @@
-creating a new branch is qucik  and simple¡£
+creating a new branch is qucik  & simple¡£
 on dev add haha¡£
 
